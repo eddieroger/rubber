@@ -3,6 +3,3 @@ dependent_templates:
   - base
   - haproxy
   - passenger_nginx
-  - monit
-  - collectd
-  - graphite
